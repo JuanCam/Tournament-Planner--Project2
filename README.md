@@ -5,6 +5,7 @@ GENERAL USAGE NOTES
 -The database system is PostgreSQL
 -Important!, you first must create a database named tournament (CREATE DATABASE tournament) then import the tournament.sql file into PostgreSQL (\i tournament.sql).
 -If you want to test the database you can run the tournament_test.py.
+-You can create multiple tournaments.
 -Once you ran it you can see if the database is ok and if the queries for a swiss tournament system are working fine
 
 
