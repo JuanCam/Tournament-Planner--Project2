@@ -3,6 +3,7 @@ GENERAL USAGE NOTES
 
 -This is a database for a simple tournament system (swiss tournament system)
 -The database system is PostgreSQL
+-Importat, you first must create a databse named tournament (CREATE DATABASE tournament).
 -If you want to test the database you can run the tournament_test.py.
 -Once you ran it you can see if the database is ok and if the queries for a swiss tournament system are working fine
 
