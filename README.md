@@ -18,5 +18,6 @@ Author : Juan Camilo Gutierrez Ruiz
 Voice : 6262751
 Website : www.swiss-t-syst.com
 e-mail : juacgr_4@hotmail.com
+City: Bogotá,Colombia.
 
 Copyright 2015 Juan Corporation All rights reserved. Tournament Planner code and its use are subject to license agreement and are also subject to copyright trademark/pattent and/or other laws.
