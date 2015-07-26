@@ -178,7 +178,7 @@ def selectTorunament(name):
     DB = connect()
     c = DB.cursor()
     #Selects tournaments by its name
-    c.execute("SELECT idTournament,TournamentName FROM Tournaments")
+    c.execute("SELECT idTournament,TournamentName FROM Tournaments WHERE TournamentName LIKE '%name%'")
     for row in c.fetchall():
         tournament_info.append((row[0], row[1]))
     return tournament_info
